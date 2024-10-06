@@ -1,0 +1,6 @@
+BOT AUTOCLAIM BLUM
+AUTO TASK
+AUTO GAME
+
+
+("@mexicanbr")
